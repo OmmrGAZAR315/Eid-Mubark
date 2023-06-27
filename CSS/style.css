@@ -1,0 +1,19 @@
+.test1{
+    /* position: relative; */
+    height: 50%;
+    width: 50%;
+    background-color: red;
+}
+.test2{
+    /* position: absolute; */
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+}
+
+.test3{
+    /* position: absolute; */
+    height: 50%;
+    width: 50%;
+    background-color: brown;
+}
